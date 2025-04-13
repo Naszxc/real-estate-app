@@ -27,6 +27,20 @@
             </div>
 
         </div>
+
+        <div>
+
+            <button onclick="prev()">prev</button>
+
+            <div class="carousel-info" style="position: relative;">
+                <div class="carousel-slide active">this is the first slide</div>
+                <div class="carousel-slide"> this is the 2nd slide</div>
+                <div class="carousel-slide">this is the 3rd slide</div>
+            </div>
+
+            <button>next</button>
+
+        </div>
     </div>
 </div>
 
@@ -71,4 +85,39 @@
             transform: scale(1) translate(0, 0);
         }
     }
+
+    .carousel-info .carousel-slide{
+        position: absolute;
+        opacity: 0;
+    }
+
+    .carousel-slide.active {
+        opacity: 1;
+        z-index: 1;
+        animation: fadeInOut 6s ease-in-out infinite;
+    }
+
+    @keyframes fadeInOut {
+        0%   { opacity: 0; }
+        100%  { opacity: 1; }
+    }
+
 </style>
+
+<script>
+  const slides = document.querySelectorAll('.carousel-slide');
+  let current = 0;
+
+  function showNextSlide() {
+    slides[current].classList.remove('active');
+    current = (current + 1) % slides.length;
+    slides[current].classList.add('active');
+  }
+
+  // Auto-play every 3 seconds
+//   setInterval(showNextSlide, 3000);
+
+  function prev(){
+    showNextSlide()
+  }
+</script>
