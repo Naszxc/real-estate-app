@@ -36,13 +36,13 @@
 
             <div class="carousel-container">
 
-                <div class="carousel" style="background-color: green;">
+                <div class="carousel">
                     
                     <div class="carousel-card-container">
                         <div class="carousel-card">
                             <div class="carousel-prev">
                                 <a onclick="next()">
-                                    <i class="fas fa-arrow-left" style="font-size: 20px;"></i>
+                                    <i class="fas fa-arrow-circle-left" style="font-size: 20px; color: gray;"></i>
                                 </a>
                             </div>
 
@@ -51,8 +51,6 @@
                                     <div class="title">First Slide Lorem Ipsum</div>
 
                                     <div class="desc">
-                                        Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
-                                        Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
                                         Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
                                         Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
                                     </div>
@@ -71,7 +69,7 @@
 
                             <div class="carousel-next">
                                 <a onclick="next()">
-                                    <i class="fas fa-arrow-right" style="font-size: 20px;"></i>
+                                    <i class="fas fa-arrow-circle-right" style="font-size: 20px; color: gray;"></i>
                                 </a>
                             </div>
                         </div>

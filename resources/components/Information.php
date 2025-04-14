@@ -24,7 +24,7 @@
 
                 <div class="information-card-right">
                     <div style="padding: 10px;">
-                        <div style="background-color: white; width: 100%; height: 100%;">
+                        <div style="background-color: white; width: 100%; height: 100%; box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.2);">
                             <img src='https://img1.wsimg.com/isteam/stock/12792/:/rs=w:365,h:365,cg:true,m/cr=w:365,h:365/qt=q:56' width=100% />
                             <div style="padding: 20px;">
                                 <div>Lorem Ipsum</div>
@@ -33,7 +33,7 @@
                     </div>
 
                     <div style="padding: 10px;">
-                        <div style="background-color: white; width: 100%; height: 100%;">
+                        <div style="background-color: white; width: 100%; height: 100%; box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.2);">
                             <img src='https://img1.wsimg.com/isteam/stock/12792/:/rs=w:365,h:365,cg:true,m/cr=w:365,h:365/qt=q:56' width=100% />
                             <div style="padding: 20px;">test</div>
                         </div>

@@ -13,10 +13,5 @@
         <?php include_once 'resources/components/MainView.php' ?>
         <?php include_once 'resources/components/Information.php' ?>
         <?php include_once 'resources/components/Contacts.php' ?>
-
-        <!-- <video width="640" height="360" autoplay loop muted playsinline>
-                <source src="background_video.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video> -->
     </body>
 </html>

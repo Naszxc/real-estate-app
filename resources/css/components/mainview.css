@@ -58,7 +58,6 @@
 }
 
 .carousel-container{
-    background-color: blue; 
     margin-top: 10vh; 
     height: 60vh; 
     min-height: 6in;
@@ -92,6 +91,7 @@
 .carousel-container .carousel-images img{
     position: absolute;
     width: 400px;
+    border: 1px solid gray;
 }
 
 .carousel-container .carousel-images img:nth-child(1){
@@ -146,20 +146,18 @@
 }
 
 .carousel .carousel-card-container{
-    background-color: red; 
     margin-left: 30px; 
     margin-right: 30px; 
     height: 60%;
 }
 
 .carousel .carousel-card-container .carousel-card{
-    margin-top: 5%; 
+    margin-top: 15%; 
     display: flex; 
     height: 100%;
 }
 
 .carousel-card .carousel-prev{
-    background-color: pink; 
     height: 100%;
     width: 5%; 
     display: flex; 
@@ -297,7 +295,6 @@
     }
 
     .carousel .carousel-card-container{
-        background-color: red; 
         margin-left: 0; 
         margin-right: 0; 
         height: 60%;
