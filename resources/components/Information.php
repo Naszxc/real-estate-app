@@ -81,69 +81,77 @@
 
         <!-- Mobile View -->
         <div class="information-card-mobile">
-            <div class="information-card-image-mobile">
-                <div>
-                    <img src='https://img1.wsimg.com/isteam/stock/3395/:/cr=t:11.02%25,l:0%25,w:100%25,h:77.95%25/rs=w:600,h:300,cg:true/qt=q:80' width=100% />
+            <div style="background-color: white;">
+                <div class="information-card-image-mobile">
+                    <div>
+                        <img src='https://img1.wsimg.com/isteam/stock/3395/:/cr=t:11.02%25,l:0%25,w:100%25,h:77.95%25/rs=w:600,h:300,cg:true/qt=q:80' width=100% />
+                    </div>
                 </div>
-            </div>
-            <div class="information-card-details-mobile">
-                <div>
-                    Top Residential Sales Last 5 Years
-                    We helped nearly 90 clients in 2021, and closed 28.5 million in sales! 
+                <div class="information-card-details-mobile">
+                    <div>
+                        Top Residential Sales Last 5 Years
+                        We helped nearly 90 clients in 2021, and closed 28.5 million in sales! 
 
-                    Our team works hard everyday to grow and learn, so that we may continue to excel in our market. 
-                    Our clients deserve our best, & we want to make sure our best is better every year.
-                </div>
-            </div>
-        </div>
-
-        <div class="information-card-mobile">
-            <div class="information-card-image-mobile">
-                <div>
-                    <img src='https://img1.wsimg.com/isteam/stock/3395/:/cr=t:11.02%25,l:0%25,w:100%25,h:77.95%25/rs=w:600,h:300,cg:true/qt=q:80' width=100% />
-                </div>
-            </div>
-            <div class="information-card-details-mobile">
-                <div>
-                    Top Residential Sales Last 5 Years
-                    We helped nearly 90 clients in 2021, and closed 28.5 million in sales! 
-
-                    Our team works hard everyday to grow and learn, so that we may continue to excel in our market. 
-                    Our clients deserve our best, & we want to make sure our best is better every year.
+                        Our team works hard everyday to grow and learn, so that we may continue to excel in our market. 
+                        Our clients deserve our best, & we want to make sure our best is better every year.
+                    </div>
                 </div>
             </div>
         </div>
 
         <div class="information-card-mobile">
-            <div class="information-card-image-mobile">
-                <div>
-                    <img src='https://img1.wsimg.com/isteam/stock/3395/:/cr=t:11.02%25,l:0%25,w:100%25,h:77.95%25/rs=w:600,h:300,cg:true/qt=q:80' width=100% />
+            <div style="background-color: white;">
+                <div class="information-card-image-mobile">
+                    <div>
+                        <img src='https://img1.wsimg.com/isteam/stock/3395/:/cr=t:11.02%25,l:0%25,w:100%25,h:77.95%25/rs=w:600,h:300,cg:true/qt=q:80' width=100% />
+                    </div>
                 </div>
-            </div>
-            <div class="information-card-details-mobile">
-                <div>
-                    Top Residential Sales Last 5 Years
-                    We helped nearly 90 clients in 2021, and closed 28.5 million in sales! 
+                <div class="information-card-details-mobile">
+                    <div>
+                        Top Residential Sales Last 5 Years
+                        We helped nearly 90 clients in 2021, and closed 28.5 million in sales! 
 
-                    Our team works hard everyday to grow and learn, so that we may continue to excel in our market. 
-                    Our clients deserve our best, & we want to make sure our best is better every year.
+                        Our team works hard everyday to grow and learn, so that we may continue to excel in our market. 
+                        Our clients deserve our best, & we want to make sure our best is better every year.
+                    </div>
                 </div>
             </div>
         </div>
 
         <div class="information-card-mobile">
-            <div class="information-card-image-mobile">
-                <div>
-                    <img src='https://img1.wsimg.com/isteam/stock/3395/:/cr=t:11.02%25,l:0%25,w:100%25,h:77.95%25/rs=w:600,h:300,cg:true/qt=q:80' width=100% />
+            <div style="background-color: white;">
+                <div class="information-card-image-mobile">
+                    <div>
+                        <img src='https://img1.wsimg.com/isteam/stock/3395/:/cr=t:11.02%25,l:0%25,w:100%25,h:77.95%25/rs=w:600,h:300,cg:true/qt=q:80' width=100% />
+                    </div>
+                </div>
+                <div class="information-card-details-mobile">
+                    <div>
+                        Top Residential Sales Last 5 Years
+                        We helped nearly 90 clients in 2021, and closed 28.5 million in sales! 
+
+                        Our team works hard everyday to grow and learn, so that we may continue to excel in our market. 
+                        Our clients deserve our best, & we want to make sure our best is better every year.
+                    </div>
                 </div>
             </div>
-            <div class="information-card-details-mobile">
-                <div>
-                    Top Residential Sales Last 5 Years
-                    We helped nearly 90 clients in 2021, and closed 28.5 million in sales! 
+        </div>
 
-                    Our team works hard everyday to grow and learn, so that we may continue to excel in our market. 
-                    Our clients deserve our best, & we want to make sure our best is better every year.
+        <div class="information-card-mobile">
+            <div style="background-color: white;">
+                <div class="information-card-image-mobile">
+                    <div>
+                        <img src='https://img1.wsimg.com/isteam/stock/3395/:/cr=t:11.02%25,l:0%25,w:100%25,h:77.95%25/rs=w:600,h:300,cg:true/qt=q:80' width=100% />
+                    </div>
+                </div>
+                <div class="information-card-details-mobile">
+                    <div>
+                        Top Residential Sales Last 5 Years
+                        We helped nearly 90 clients in 2021, and closed 28.5 million in sales! 
+
+                        Our team works hard everyday to grow and learn, so that we may continue to excel in our market. 
+                        Our clients deserve our best, & we want to make sure our best is better every year.
+                    </div>
                 </div>
             </div>
         </div>

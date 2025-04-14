@@ -1,9 +1,10 @@
 <div id="mainview" style="background-color: black; height: 100vh; min-height: 10in;">
 
     <div class="slideshow" style="width: 100%; height: 100%; overflow: hidden; position: relative;">
-        <img class="slideshow-images" src="https://img1.wsimg.com/isteam/stock/3395/:/cr=t:11.02%25,l:0%25,w:100%25,h:77.95%25/rs=w:600,h:300,cg:true/qt=q:80" alt="Slide 1">
-        <img class="slideshow-images" src="https://img1.wsimg.com/isteam/stock/3395/:/cr=t:11.02%25,l:0%25,w:100%25,h:77.95%25/rs=w:600,h:300,cg:true/qt=q:80" alt="Slide 2">
-        <img class="slideshow-images" src="https://img1.wsimg.com/isteam/stock/3395/:/cr=t:11.02%25,l:0%25,w:100%25,h:77.95%25/rs=w:600,h:300,cg:true/qt=q:80" alt="Slide 3">
+        <video width="640" height="360" autoplay loop muted playsinline>
+            <source src="background_video.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
 
         <div style="position: absolute; z-index: 1; width: 100%;">
 

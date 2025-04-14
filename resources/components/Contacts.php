@@ -18,6 +18,11 @@
                     206-919-6886
                 </div>
             </div>
+
+            <video width="640" height="360" autoplay loop muted playsinline style="position: absolute; z-index: 1;">
+                <source src="resources/images/background_video.mov" type="video/quicktime">
+                Your browser does not support the video tag.
+            </video>
         </div>
     <div>
 </div>
