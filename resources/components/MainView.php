@@ -37,15 +37,15 @@
 
                 <div class="carousel" style="background-color: green;">
                     
-                    <div style="background-color: red; margin-left: 30px; margin-right: 30px; height: 60%;">
-                        <div style="margin-top: 5%; display: flex; height: 100%;">
-                            <div style="background-color: pink; height: 100%; width: 5%; display: flex; justify-content: center; align-items: center;">
+                    <div class="carousel-card-container">
+                        <div class="carousel-card">
+                            <div class="carousel-prev">
                                 <a onclick="next()">
                                     <i class="fas fa-arrow-left" style="font-size: 20px;"></i>
                                 </a>
                             </div>
 
-                            <div class="carousel-info" style="position: relative; width: 90%; padding: 20px;">
+                            <div class="carousel-info">
                                 <div class="carousel-slide active">
                                     <div class="title">First Slide Lorem Ipsum</div>
 
@@ -68,7 +68,7 @@
                                 </div>
                             </div>
 
-                            <div style="width: 5%; display: flex; justify-content: center; align-items: center;">
+                            <div class="carousel-next">
                                 <a onclick="next()">
                                     <i class="fas fa-arrow-right" style="font-size: 20px;"></i>
                                 </a>
