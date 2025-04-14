@@ -1,1 +1,8 @@
 @import url('components/information.css');
+@import url('components/mainview.css');
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(248,246,239,255);
+}

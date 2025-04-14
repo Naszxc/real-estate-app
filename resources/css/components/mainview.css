@@ -1,0 +1,146 @@
+.slideshow .slideshow-images {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    animation: fadeSlideshow 9s infinite;
+    filter: blur(2px) brightness(30%);
+    z-index: 0;
+}
+
+.slideshow .slideshow-images:nth-child(1) {
+    animation-delay: 0s;
+}
+.slideshow .slideshow-images:nth-child(2) {
+    animation-delay: 3s;
+}
+.slideshow .slideshow-images:nth-child(3) {
+    animation-delay: 6s;
+}
+
+@keyframes fadeSlideshow {
+    0% { opacity: 0; }
+    10% { opacity: 1; }
+    30% { opacity: 1; }
+    40% { opacity: 0; }
+    100% { opacity: 0; }
+}
+
+@keyframes zoomEffect {
+    0% {
+        transform: scale(1) translate(0, 0);
+    }
+    50% {
+        transform: scale(1.05) translate(-2%, -2%);
+    }
+    100% {
+        transform: scale(1) translate(0, 0);
+    }
+}
+
+
+
+
+/* carousel */
+
+/* .carousel{
+    position: absolute;
+    z-index: 1;
+} */
+.carousel-container{
+    background-color: blue; 
+    margin-top: 10vh; 
+    height: 60vh; 
+    min-height: 6in;
+    margin-left: 30px; 
+    margin-right: 30px;
+    display: flex;
+}
+
+.carousel-container .carousel{
+    width: 50%;
+}
+
+.carousel-container .carousel-images{
+    width: 50%;
+    object-fit: cover;
+    position: relative;
+}
+
+.carousel-container .carousel-images img{
+    position: absolute;
+    width: 400px;
+}
+
+.carousel-container .carousel-images img:nth-child(1){
+    transform: translate(110px, 30px);
+}
+
+.carousel-container .carousel-images img:nth-child(2){
+    transform: translate(390px, 160px);
+}
+
+.carousel-container .carousel-images img:nth-child(3){
+    transform: translate(110px, 410px);
+}
+
+.carousel-info .carousel-slide{
+    position: absolute;
+    opacity: 0;
+}
+
+.carousel-info .carousel-slide .title{
+    font-family: 'Abril Fatface'; 
+    font-size: 30px;
+}
+
+.carousel-info .carousel-slide .desc{
+    margin-top: 30px;
+    font-family: 'Work Sans';
+}
+
+.carousel-slide.active {
+    opacity: 1;
+    z-index: 1;
+    animation: fadeInOut .5s ease-in;
+}
+
+.carousel div a{
+    cursor: pointer;
+}
+
+@keyframes fadeInOut {
+    0%   { opacity: 0; }
+    100%  { opacity: 1; }
+}
+
+/* Navigation Bar */
+.navbar{
+    background-color: rgba(0,0,0, .5); 
+    /* height: 150px;  */
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.navbar .nav-container{
+    /* background-color: white;  */
+    /* margin: 50px; */
+}
+
+.navbar .nav-container ul{
+    /* background-color: red;  */
+    list-style: none; 
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center;
+}
+
+.navbar .nav-container ul li{
+    padding: 10px 50px 0 50px; 
+    font-size: 20px; 
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Rajdhani';
+}
