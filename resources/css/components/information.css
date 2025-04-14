@@ -50,6 +50,10 @@
     padding: 30px;
 }
 
+.information-card-mobile{
+    display: none;
+}
+
 
 /* behaviors */
 @media screen and (max-width: 768px) {
@@ -70,6 +74,19 @@
     .information-card-details{
         width: 100%; 
         background-color: blue;
+    }
+
+}
+
+@media screen and (max-width: 1020px) {
+
+    .information-card-mobile{
+        display: block;
+        padding: 20px;
+    }
+
+    .information-card{
+        display: none;
     }
 
 }

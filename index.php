@@ -3,6 +3,7 @@
     <head>
         <title>Real estate</title>
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Rajdhani&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Inter&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="resources/css/index.css">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.0/css/all.min.css">

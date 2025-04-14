@@ -21,7 +21,16 @@
                     </ul>
                 </div>
 
-                    <!-- <img src="https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/blob-6c0c2e0.png/:/rs=w:536,h:167,cg:true,m/cr=w:536,h:167/qt=q:95" style="background-color: white;" width=100 alt="Slide 1"> -->
+                <div class="nav-container-mobile" style="z-index: 1;">
+                    <div style="position: absolute; padding: 40px;">
+                        <i class="fas fa-bars" style="color: white; font-size: 30px;"></i>
+                    </div>
+
+                    <div style="display: flex; justify-content: center; transform: scale(2)">
+                        <img src="resources/images/icon.png" width=200 alt="Slide 1"/>
+                    </div>
+                </div>
+
             </nav>
 
             <div class="carousel-container">
@@ -29,7 +38,7 @@
                 <div class="carousel" style="background-color: green;">
                     
                     <div style="background-color: red; margin-left: 30px; margin-right: 30px; height: 60%;">
-                        <div style="margin-top: 10%; display: flex; height: 100%;">
+                        <div style="margin-top: 5%; display: flex; height: 100%;">
                             <div style="background-color: pink; height: 100%; width: 5%; display: flex; justify-content: center; align-items: center;">
                                 <a onclick="next()">
                                     <i class="fas fa-arrow-left" style="font-size: 20px;"></i>
