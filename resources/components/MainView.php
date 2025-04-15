@@ -48,22 +48,28 @@
 
                             <div class="carousel-info">
                                 <div class="carousel-slide active">
-                                    <div class="title">First Slide Lorem Ipsum</div>
+                                    <div class="title">Top Residential Sales Last 5 Years</div>
 
                                     <div class="desc">
-                                        Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
-                                        Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+                                        We helped nearly 90 clients in 2021, and closed 28.5 million in sales! 
+
+                                        Our team works hard everyday to grow and learn, so that we may continue to excel in our market. 
+                                        Our clients deserve our best, & we want to make sure our best is better every year.
                                     </div>
                                 </div>
                                 <div class="carousel-slide">
-                                    <div class="title">Second Slide Lorem Ipsum</div>
+                                    <div class="title">Don't Just List it...</div>
 
-                                    <div class="desc">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum</div>
+                                    <div class="desc">
+                                        Get it SOLD! We exhaust every avenue to ensure our listings are at the fingertips of every possible buyer, getting you top dollar for your home.
+                                    </div>
                                 </div>
                                 <div class="carousel-slide">
-                                    <div class="title">Third Slide Lorem Ipsum</div>
+                                    <div class="title">Guide to Buyers</div>
 
-                                    <div class="desc">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum</div>
+                                    <div class="desc">
+                                        Nobody knows the market like we do. Enjoy having a pro at your service. Market analysis, upgrades lists, contractors on speed dial, & more!
+                                    </div>
                                 </div>
                             </div>
 
@@ -78,8 +84,8 @@
                 </div>
 
                 <div class="carousel-images">
-                    <img src="https://img1.wsimg.com/isteam/stock/12792/:/rs=w:365,h:365,cg:true,m/cr=w:365,h:365/qt=q:56" alt="Image 1">
-                    <img src="https://img1.wsimg.com/isteam/stock/kayaJdA/:/rs=w:365,h:365,cg:true,m/cr=w:365,h:365/qt=q:56" alt="Image 2">
+                    <img src="https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/4787%20E%20Beacon%20Ridge-41.jpg-SMALL.JPG/:/rs=w:984,h:656" alt="Image 1">
+                    <img src="https://img1.wsimg.com/isteam/ip/067a4d42-19e8-46d9-9bed-578bf62dd44e/5570%20Ailanto-14.jpg-SMALL.JPG/:/cr=t:0%25,l:0.05%25,w:99.9%25,h:99.9%25/rs=w:984,h:655" alt="Image 2">
                 </div>
 
             </div>

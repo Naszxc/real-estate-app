@@ -16,7 +16,6 @@
 .information-card .information-card-left{
     width: 50%;
     padding: 10px;
-    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.15);
 }
 
 .information-card .information-card-right{
@@ -24,8 +23,19 @@
     display: flex;
 }
 
-.information-card .information-card-right div{
+/* .information-card .information-card-right div{
     width: 50%;
+} */
+
+.information-card-right .information-card-small{
+    padding: 10px;
+}
+
+.information-card-small .card{
+    background-color: white; 
+    width: 100%; 
+    height: 100%; 
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .information-card-image{
@@ -44,10 +54,28 @@
 
 .information-card-details{
     background-color: white;
+    font-family: 'Rajdhani'; 
 }
 
 .information-card-details div{
     padding: 30px;
+}
+
+.information-card-left .information-card-large{
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1), 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card .title{
+    color: #ef9f46; 
+    font-size: 20px; 
+    font-family: 'Rajdhani'; 
+    font-weight: bold;
+}
+
+.card .details{
+    margin-top: 15px; 
+    font-family: 'Rajdhani'; 
+    font-size: 15px;
 }
 
 .information-card-mobile{

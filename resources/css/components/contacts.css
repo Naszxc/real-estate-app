@@ -1,0 +1,37 @@
+.contact-body{
+    background-color: black; 
+    padding-top: 50px; 
+    padding-bottom: 50px;
+}
+
+.contact-container{
+    width: 100%; 
+    max-width: 1340px; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.contact-container .image{
+    width: 50%; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.contact-container .info{
+    width: 50%; 
+    color: white;
+}
+
+.contact-container .name{
+    font-size: 30px;
+}
+
+.contact-container .about{
+    font-family: Rajdhani; 
+    margin-top: 10px;
+}
+
+.contact-container .phone{
+    font-family: Rajdhani;
+}
